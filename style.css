@@ -174,7 +174,7 @@ nav a:focus-visible {
     outline-offset: 3px;
 }
 
-/* ===== FORM NOTE ===== */
+
 small {
     display: block;
     margin-top: 14px;
@@ -182,7 +182,7 @@ small {
     font-size: 13px;
 }
 
-/* ===== REPORT TABLE ===== */
+
 #daftar-laporan {
     overflow-x: auto;
 }
@@ -223,7 +223,7 @@ tbody tr:last-child td {
     border-bottom: none;
 }
 
-/* ===== FOOTER ===== */
+
 footer {
     background: #0f172a;
     color: #cbd5e1;
@@ -236,7 +236,7 @@ footer p {
     font-size: 14px;
 }
 
-/* ===== RESPONSIVE ===== */
+
 @media (max-width: 768px) {
     header {
         padding: 28px 5%;
