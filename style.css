@@ -1,5 +1,5 @@
 
-/* RESET  */
+
 * {
     margin: 0;
     padding: 0;
@@ -67,7 +67,7 @@ nav a:hover {
     color: var(--primary-dark);
 }
 
-/* ===== MAIN CONTENT ===== */
+
 main {
     width: 92%;
     max-width: 1200px;
@@ -148,7 +148,7 @@ textarea {
     min-height: 110px;
 }
 
-/* ===== BUTTON ===== */
+
 button {
     display: inline-block;
     padding: 12px 24px;
