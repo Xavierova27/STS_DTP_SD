@@ -27,7 +27,7 @@ body {
     line-height: 1.6;
 }
 
-/* ===== HEADER ===== */
+
 header {
     background: linear-gradient(135deg, #1e3a8a, #2563eb);
     color: white;
@@ -95,7 +95,7 @@ section > p {
     margin-bottom: 22px;
 }
 
-/* ===== FORM ===== */
+
 fieldset {
     border: 1px solid var(--border);
     border-radius: 10px;
